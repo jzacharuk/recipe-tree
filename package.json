@@ -1,0 +1,32 @@
+{
+  "name": "recipe-tree",
+  "version": "0.0.0",
+  "description": "A family based recipe sharing application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzacharuk/recipe-tree.git"
+  },
+  "keywords": [
+    "recipe",
+    "tree",
+    "family"
+  ],
+  "author": "Jonathan Zacharuk (jzacharuk@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzacharuk/recipe-tree/issues"
+  },
+  "homepage": "https://github.com/jzacharuk/recipe-tree#readme",
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.0",
+    "eslint-plugin-react": "^6.1.2",
+    "gulp": "^3.9.1"
+  }
+}

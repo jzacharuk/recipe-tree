@@ -1,0 +1,12 @@
+{
+    "extends": "airbnb",
+    "plugins": [
+        "react",
+        "jsx-a11y",
+        "import"
+    ],
+    "rules": {
+      // https://github.com/AtomLinter/linter-eslint/issues/579
+      "react/require-extension": "off"
+    }
+}
