@@ -7,6 +7,6 @@
     ],
     "rules": {
       // https://github.com/AtomLinter/linter-eslint/issues/579
-      "react/require-extension": "off"
+      "react/require-extension": 0
     }
 }
