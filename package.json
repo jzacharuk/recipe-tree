@@ -4,7 +4,7 @@
   "description": "A family based recipe sharing application.",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/eslint index.js"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
